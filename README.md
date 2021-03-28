@@ -1,1 +1,3 @@
 # etf_histogram_by_pandas
+
+ETFの収益率と対数収益率のヒストグラムをpandasを使って描く練習です。
